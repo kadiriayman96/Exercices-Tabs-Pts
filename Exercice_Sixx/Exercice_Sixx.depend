@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710192748 source:c:\users\mugiwara\desktop\mern stack\language c algorithme\exercice_sixx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
